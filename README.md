@@ -11,6 +11,6 @@
 <p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=minimal" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=WhiteElytra&count_private=true&show_icons=true&theme=buefy" width="600" />
-  <img src="https://streak-stats.demolab.com/?user=WhiteElytra" width="600" />
+  <img src="https://github-readme-stats.vercel.app/api?username=WhiteElytra&count_private=true&show_icons=true&theme=buefy" width="300" />
+  <img src="https://streak-stats.demolab.com/?user=WhiteElytra" width="300" />
 </p>
