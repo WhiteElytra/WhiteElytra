@@ -16,3 +16,8 @@
   <br>
   <img src="https://github.com/WhiteElytra/WhiteElytra/raw/output/github-contribution-grid-snake.svg" />
 </p>
+
+-----
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
