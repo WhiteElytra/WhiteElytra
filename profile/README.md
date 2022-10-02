@@ -3,7 +3,6 @@
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WhiteElytra&count_private=true&show_icons=true&theme=buefy)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=WhiteElytra)
 
 ![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710)
