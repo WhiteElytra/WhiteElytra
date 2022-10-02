@@ -20,4 +20,18 @@
 -----
 
 <!--START_SECTION:waka-->
+
+```text
+From: 03 April 2022 - To: 01 October 2022
+
+Total Time: 24 hrs 22 mins
+
+PHP          10 hrs 49 mins  >>>>>>>>>>>--------------   44.43 %
+JavaScript   2 hrs 58 mins   >>>----------------------   12.18 %
+HTML         2 hrs 51 mins   >>>----------------------   11.75 %
+Markdown     2 hrs 34 mins   >>>----------------------   10.57 %
+Python       1 hr 6 mins     >------------------------   04.57 %
+YAML         1 hr 6 mins     >------------------------   04.54 %
+```
+
 <!--END_SECTION:waka-->
