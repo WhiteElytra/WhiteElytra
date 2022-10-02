@@ -8,7 +8,9 @@
 
 -----
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WhiteElytra&count_private=true&show_icons=true&theme=buefy)
-![GitHub Streak](https://streak-stats.demolab.com/?user=WhiteElytra)
-
-![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=minimal)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=WhiteElytra&count_private=true&show_icons=true&theme=buefy" width="436" />
+<img src="https://streak-stats.demolab.com/?user=WhiteElytra" width="436" />
+<br>
+<img src="https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=minimal" />
+</p>
