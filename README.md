@@ -19,7 +19,7 @@
 
 -----
 
-#### 📊 Total Development Breakdown
+#### 📊 Yearly Development Breakdown
 
 <!--START_SECTION:waka-->
 
