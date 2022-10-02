@@ -19,7 +19,7 @@
 
 -----
 
-#### 📊 Yearly Development Breakdown - Starts calculate from 2022-10-2
+#### 📊 Total Development Breakdown
 
 <!--START_SECTION:waka-->
 
