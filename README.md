@@ -13,4 +13,6 @@
   <img src="https://streak-stats.demolab.com/?user=WhiteElytra" width="400" />
   <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=minimal" />
+  <br>
+  <img src="https://github.com/WhiteElytra/WhiteElytra/raw/output/github-contribution-grid-snake.svg" />
 </p>
